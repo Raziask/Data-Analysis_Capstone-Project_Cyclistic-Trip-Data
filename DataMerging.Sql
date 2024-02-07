@@ -1,4 +1,4 @@
--- Merging all months of data into one single table named CycleTrip2023 DataMerge
+-- Merging all months of data into one single table named DataMerge
 
 create table Months.DataMerge As(
 
