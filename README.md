@@ -1,5 +1,5 @@
-**Google Data Analytics Capstone Project
-**
+Google Data Analytics Capstone Project
+
 
 
 I worked on the Google Data Analytics Capstone Project, Case Study 1. I will be diving into the background, my full process of cleaning, analyzing and visualizing the data, along with my final suggestions and summary of the data. 
@@ -37,13 +37,13 @@ Below I will describe step-by-step the process I used to for this project. If yo
  _____________________________________________________________________________________________________________________________________
 
 To do this, I will follow the six steps of the data analysis process: Ask, Prepare, Process, Analyze and Share, and Act. SQL Queries Used in perform the above steps:
-_____________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
 
 **Ask:**
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
-____________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
 
 **Prepare:**
 
@@ -75,13 +75,15 @@ ________________________________________________________________________________
 **Analyze**
 
 Data Source: divvy_tripdata
-1.	Data Merging:[Data Merging{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataMerging.Sql}]
+1.	Data Merging:   [Data Merging{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataMerging.Sql}]
    
-2.Data Exploring:	[Data Exploration{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataExploring.Sql}]
+2.      Data Exploring:	 [Data Exploration{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataExploring.Sql}]
 
-3.	Data Cleaning:[Data Cleaning{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataCleaning.Sql}]
+3.	Data Cleaning:   [Data Cleaning{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataCleaning.Sql}]
    
-4.	Data Analysis:[Data Analysis{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataAnalysis.Sql}]
+4.	Data Analysis:   [Data Analysis{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataAnalysis.Sql}]
+
+
 
    
 
@@ -183,13 +185,18 @@ _______________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________________
 
 **BUSINESS SUGGESTIONS**
+
 This was the hardest part for me for the whole project. I have never provided suggestions for a business nor worked in marketing. Any feedback here would be appreciated. 
 These are my suggestions for the marketing team to convert casual riders to annual members:
+
 1.	Personalize discounts and show perks in the membership program based on their preferences and riding habits.
 2.	Emphasize the benefits of memberships, including discounts during busy times of the year like during Summer, or on the weekends. 
-3.	Have existing members to share their stories about how using Cyclistic's system has changed their life, to create a sense of community, offer a discount if they do so this will help encourage new riders to join the program.
-______________________________________________________________
+3.	Have existing members to share their stories about how using Cyclistic's system has changed their life, to create a sense of community, offer a discount if they do so this 
+        will help encourage new riders to join the program.
+________________________________________________________________________________________________________________________________________________________________________________________
+
 **WHAT I LEARNED**
+
 Below is what I learned/practiced from over 50 hours spent on this project: 
 
 •	Pivot Tables in Microsoft Excel
