@@ -31,8 +31,9 @@ Ask:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
-______________________
+___________________________________________________________________________________________
 Prepare
+
 Use Cyclistic’s historical trip data to analyze and identify trends. Download the previous 12
 months of Cyclistic trip data  2023 here. (Note: The datasets have a different name because Cyclistic
 is a fictional company. For the purposes of this case study, the datasets are appropriate and
@@ -45,7 +46,9 @@ Cyclistic service area or if they have purchased multiple single passes.
 I first analyzed the data separately (each month) in Excel, then used Big Querry SQL to analyze the data as a whole (one year). Finally I created a dashboard in Tableau to generate Insights.
 Microsoft Excel
 I initially wanted to gather and analyze my data in Excel because it was the tool I was most familiar with and I could get a general understanding of the data quicker. I did not combine all of the spreadsheets into one because that would've taken more processing power than my computer had. So I   cleaned the data each month and I add the new columns and tried  to generate the pivot tables and graphs.
+
  BigQuery sandbox:
+ 
 1.	I began downloading the data from divvy-tripdata, and turning the .csv files into excel spreadsheets. I downloaded the most recent year of data 2023 Added two columns to all of the months:
 a.	ride_length calculated the total ride length for each trip using the start_at column which was: ending time minus starting time. 
 b.	day_of_week calculated the day of the week for each trip using the start_at column date. 
@@ -65,6 +68,8 @@ Data Source: divvy_tripdata
 4.	Data Analysis
 
 Members has the most rides at 68% of Total Rides.
+
+
 The Average RideLength typically mirrored the number of rides.Meaning they had similar high and lows.The average ride length  for casual riders was 52 minsand members was12 mins.
 The most popular Bike for both wss Classic bikes and  for casula bikes was alone for the docked bikes.
 Both Members and casual rides afternoon (12pm-6pm) and the 5pm was the most and night 4am being the least busy.
