@@ -107,7 +107,12 @@ Thursday was the most popular weekday for the both.Members used the bikes equall
 
 
 
+
+
 April to October was the busiest season for both type of riders. They ride most in April.While the least in (December-February).Specially in February.
+
+![image](https://github.com/Raziask/Raziask/assets/159090090/60b9436b-2d88-4b56-b2ca-9a4efe2ac62e)
+
 _________________________________________________________
 Share
 
