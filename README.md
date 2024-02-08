@@ -4,14 +4,21 @@ I worked on the Google Data Analytics Capstone Project, Case Study 1. I will be 
 Below is a table of contents in case you want to go to a specific section. 
 Table of Contents:
 1 . Background 
+
 2.	Process 
-   Microsoft Excel ,SQL,Tableau 
-3.	Finished Project 
-4.	Summary of Data 
-5.	Business Suggestions 
-6.	What I Learned 
-____________________________________________________________________________________________
-Background
+   Microsoft Excel ,SQL,Tableau
+  	
+3.	Analysis Process
+	
+4.	Summary of Data
+	
+5.	Business Suggestions
+	 
+6.	What I Learned
+   
+	
+________________________________Background______________________________________________________________________________________
+
 About the company
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations
 across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to
