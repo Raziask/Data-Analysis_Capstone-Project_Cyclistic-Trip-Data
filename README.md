@@ -64,7 +64,7 @@ Analyze
 Data Source: divvy_tripdata
 1.	Data Merging:[Data Merging{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataMerging.Sql}]
 2.Data Exploring:	[Data Exploration{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataExploring.Sql}]
-3.	Data Cleaning
+3.	Data Cleaning:[Data Cleaning{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataCleaning.Sql}]
 4.	Data Analysis
 
 Members has the most rides at 68% of Total Rides.
