@@ -70,6 +70,11 @@ Data Source: divvy_tripdata
 Members has the most rides at 68% of Total Rides.
 
 
+![image](https://github.com/Raziask/Raziask/assets/159090090/d87fed32-d537-45e6-ae3c-379dbf6c4ffc)
+
+
+
+
 The Average RideLength typically mirrored the number of rides.Meaning they had similar high and lows.The average ride length  for casual riders was 52 minsand members was12 mins.
 The most popular Bike for both wss Classic bikes and  for casula bikes was alone for the docked bikes.
 Both Members and casual rides afternoon (12pm-6pm) and the 5pm was the most and night 4am being the least busy.
