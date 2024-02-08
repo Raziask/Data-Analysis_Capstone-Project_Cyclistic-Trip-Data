@@ -75,7 +75,10 @@ Members has the most rides at 68% of Total Rides.
 
 
 
-The Average RideLength typically mirrored the number of rides.Meaning they had similar high and lows.The average ride length  for casual riders was 52 minsand members was12 mins.
+The Average RideLength typically mirrored the number of rides.Meaning they had similar high and lows.The average ride length  for casual riders was 24 mins and members was 11 mins.
+
+![image](https://github.com/Raziask/Raziask/assets/159090090/fd73980c-5e9a-4748-a2cb-14bff920536e)
+
 
 
 
