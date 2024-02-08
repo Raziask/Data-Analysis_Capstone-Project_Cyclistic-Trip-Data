@@ -1,5 +1,7 @@
 **Google Data Analytics Capstone Project
 **
+
+
 I worked on the Google Data Analytics Capstone Project, Case Study 1. I will be diving into the background, my full process of cleaning, analyzing and visualizing the data, along with my final suggestions and summary of the data. 
 Below is a table of contents in case you want to go to a specific section. 
 Table of Contents:
@@ -83,6 +85,8 @@ Data Source: divvy_tripdata
 
    
 
+
+
 Members has the most rides at 68% of Total Rides.
 
 
@@ -91,7 +95,7 @@ Members has the most rides at 68% of Total Rides.
 
 
 
-The Average RideLength typically mirrored the number of rides.Meaning they had similar high and lows.The average ride length  for casual riders was 24 mins and members was 11 mins.
+**The Average RideLength typically mirrored the number of rides.Meaning they had similar high and lows.The average ride length  for casual riders was 24 mins and members was 11 mins.**
 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/fd73980c-5e9a-4748-a2cb-14bff920536e)
 
@@ -101,7 +105,7 @@ The Average RideLength typically mirrored the number of rides.Meaning they had s
 
 
 
-The most popular Bike for both wss Classic bikes and  for casula bikes was alone for the docked bikes.
+**The most popular Bike for both wss Classic bikes and  for casula bikes was alone for the docked bikes.**
 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/0cae31a2-a3a9-4414-b980-851f2a9773e5)
 ![image](https://github.com/Raziask/Raziask/assets/159090090/7b5e09f0-acde-4321-a05b-ec231ebb4117)
@@ -109,13 +113,13 @@ The most popular Bike for both wss Classic bikes and  for casula bikes was alone
 
 
 
-Both Members and casual rides afternoon (12pm-6pm) and the 5pm was the most and night 4am being the least busy.
+**Both Members and casual rides afternoon (12pm-6pm) and the 5pm was the most and night 4am being the least busy.**
 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/29ce26ff-5748-4c6f-9d67-d77eaf1c8037)
 
 
 
-Thursday was the most popular weekday for the both.Members used the bikes equally through out the bike with a slight increase on Tuesday,while the casual rides equally through out the weekdays but the most on weekends.Saturdays in particular. 
+**Thursday was the most popular weekday for the both.Members used the bikes equally through out the bike with a slight increase on Tuesday,while the casual rides equally through out the** weekdays but the most on weekends.Saturdays in particular. 
 
 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/984e714d-7abe-448c-b4b4-ab9165863020)
@@ -128,47 +132,56 @@ Thursday was the most popular weekday for the both.Members used the bikes equall
 
 
 
-April to October was the busiest season for both type of riders. They ride most in April.While the least in (December-February).Specially in February.
+**April to October was the busiest season for both type of riders. They ride most in April.While the least in (December-February).Specially in February.**
 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/60b9436b-2d88-4b56-b2ca-9a4efe2ac62e)
 
 _________________________________________________________
 **Share**
 
-a.	Total Rides per Weekday - calculated the total rides for members and casual and separated it by day of the week; used a Stacked Bar chart
+**a.**	  Total Rides per Weekday - calculated the total rides for members and casual and separated it by day of the week; used a Stacked Bar chart
 
-b.	Average Ride Length - calculated the average ride length for members and casual and separated it by day of the week; used  Horizontal Bar chart
+**b.**	  Average Ride Length - calculated the average ride length for members and casual and separated it by day of the week; used  Horizontal Bar chart
 
-c.	Total Rides per Hour - calculated the total rides for members and casual separated by the time of the day (24hr); used a Bar  comparison chart 
+**c.**	  Total Rides per Hour - calculated the total rides for members and casual separated by the time of the day (24hr); used a Bar  comparison chart 
 
-d.	Total Rides per Day - calculated the total rides for members and casual separated by the day of the month; used a pie chart 
+**d.**	  Total Rides per Day - calculated the total rides for members and casual separated by the day of the month; used a pie chart 
 
-e.	Total Rides per Bike Type - calculated the total rides for members and casual separated by Bike type; used  Stacked Bar chart 
+**e.**	  Total Rides per Bike Type - calculated the total rides for members and casual separated by Bike type; used  Stacked Bar chart 
 
-f. Make a dashboard by useing all charts for insights.
+**f.**    Make a dashboard by useing all charts for insights.
 
-Popular Bike: Classic
 
-Busiest Time :Afternoon
 
-Busiest Weekday: Thursday
+**Popular Bike**: Classic
 
-Busiest Month :April
+**Busiest Time** : Afternoon
 
-Most rides by User type:Member
+**Busiest Weekday**: Thursday
 
-Average Ride Length : 32 mins
+**Busiest Month** : April
+
+**Most rides by User type**: Member
+
+**Average Ride Length** : 25 mins
 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/9a4ba449-3dfc-423e-8d59-1d401d4a8fe3)
 _______________________________________________________
 **Act**
 •	The most popular bike among with riders was the classic.
+
 •	Busiest time was afternoon and the peak time was at 5PM for both casual riders and members. 
+
 •	Busiest weekday was Thurdsay, member riders used the service the most on the weekends. 
+
 •	Busiest month was April for both types of riders. 
+
 •	Most rides by User Type was members but casual riders weren't far behind. 
-•	The average ride length was 32 minutes but casual riders on average rode 40  minutes longer than members
-_________________________________________________________
+
+•	The average ride length was 25 minutes but casual riders on average rode 12  minutes longer than members
+
+________________________________________________________________________________________________________________________________________________________________________________________
+
 **BUSINESS SUGGESTIONS**
 This was the hardest part for me for the whole project. I have never provided suggestions for a business nor worked in marketing. Any feedback here would be appreciated. 
 These are my suggestions for the marketing team to convert casual riders to annual members:
