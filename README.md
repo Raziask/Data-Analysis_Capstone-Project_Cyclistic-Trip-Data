@@ -86,6 +86,11 @@ The Average RideLength typically mirrored the number of rides.Meaning they had s
 
 
 The most popular Bike for both wss Classic bikes and  for casula bikes was alone for the docked bikes.
+
+![image](https://github.com/Raziask/Raziask/assets/159090090/0cae31a2-a3a9-4414-b980-851f2a9773e5)
+
+
+
 Both Members and casual rides afternoon (12pm-6pm) and the 5pm was the most and night 4am being the least busy.
 Saturday was the most popular weekday for the both.Members used the bikes equally through out the bike with a slight increase on wednesday,while the casual rides equally through out the weekdays but the most on weekends.Saturdays in particular. 
 
