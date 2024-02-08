@@ -76,6 +76,12 @@ Members has the most rides at 68% of Total Rides.
 
 
 The Average RideLength typically mirrored the number of rides.Meaning they had similar high and lows.The average ride length  for casual riders was 52 minsand members was12 mins.
+
+
+
+
+
+
 The most popular Bike for both wss Classic bikes and  for casula bikes was alone for the docked bikes.
 Both Members and casual rides afternoon (12pm-6pm) and the 5pm was the most and night 4am being the least busy.
 Saturday was the most popular weekday for the both.Members used the bikes equally through out the bike with a slight increase on wednesday,while the casual rides equally through out the weekdays but the most on weekends.Saturdays in particular. 
