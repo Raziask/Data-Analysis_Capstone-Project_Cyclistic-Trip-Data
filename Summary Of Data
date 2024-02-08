@@ -77,5 +77,36 @@ c.	Total Rides per Hour - calculated the total rides for members and casual sepa
 d.	Total Rides per Day - calculated the total rides for members and casual separated by the day of the month; used a Horizontal  Bar chart 
 e.	Total Rides per Bike Type - calculated the total rides for members and casual separated by Bike type; used  Stacked Bar chart 
 f.Make a dashboard by useing all charts for insights.
+
+Popular Bike: Classic
+Busiest Time :Afternoon
+Busiest Weekday: Thursday
+Busiest Month :April
+Most rides by User type:Member
+Average Ride Length : 32 mins
 _______________________________________________________
 Act
+•	The most popular bike among with riders was the classic.
+•	Busiest time was afternoon and the peak time was at 5PM for both casual riders and members. 
+•	Busiest weekday was Thurdsay, member riders used the service the most on the weekends. 
+•	Busiest month was April for both types of riders. 
+•	Most rides by User Type was members but casual riders weren't far behind. 
+•	The average ride length was 32 minutes but casual riders on average rode 40  minutes longer than members
+_________________________________________________________
+BUSINESS SUGGESTIONS
+This was the hardest part for me for the whole project. I have never provided suggestions for a business nor worked in marketing. Any feedback here would be appreciated. 
+These are my suggestions for the marketing team to convert casual riders to annual members:
+1.	Personalize discounts and show perks in the membership program based on their preferences and riding habits.
+2.	Emphasize the benefits of memberships, including discounts during busy times of the year like during Summer, or on the weekends. 
+3.	Have existing members to share their stories about how using Cyclistic's system has changed their life, to create a sense of community, offer a discount if they do so this will help encourage new riders to join the program.
+______________________________________________________________
+WHAT I LEARNED
+Below is what I learned/practiced from over 50 hours spent on this project: 
+•	Pivot Tables in Microsoft Excel
+•	Practice using SQL for data analysis and cleaning specifically using the  GroupBy Querries for data analysis 
+•	Graphs in Tableau, edited visual elements along with creating different charts and filters. 
+•	Design elements of an effective dashboard
+ 
+
+ 
+
