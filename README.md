@@ -57,13 +57,15 @@ b.	Average ride length between members and casual
 1.	(12 months data)  and also I removed some of  the data in some months  because the limit of the file is so high for that I need to have cloud to save and store it.
 __________________________________________________________
 Analyze
+
 Data Source: divvy_tripdata
 1.	Data Merging
 2.	Data Exploration
 3.	Data Cleaning
 4.	Data Analysis
 
-Members has the most rides at 68% of Total Rides.The Average RideLength typically mirrored the number of rides.Meaning they had similar high and lows.The average ride length  for casual riders was 52 minsand members was12 mins.
+Members has the most rides at 68% of Total Rides.
+The Average RideLength typically mirrored the number of rides.Meaning they had similar high and lows.The average ride length  for casual riders was 52 minsand members was12 mins.
 The most popular Bike for both wss Classic bikes and  for casula bikes was alone for the docked bikes.
 Both Members and casual rides afternoon (12pm-6pm) and the 5pm was the most and night 4am being the least busy.
 Saturday was the most popular weekday for the both.Members used the bikes equally through out the bike with a slight increase on wednesday,while the casual rides equally through out the weekdays but the most on weekends.Saturdays in particular. 
@@ -71,19 +73,31 @@ Saturday was the most popular weekday for the both.Members used the bikes equall
 April to October was the busiest season for both type of riders. They ride most in April.While the least in (December-February).Specially in February.
 _________________________________________________________
 Share
+
 a.	Total Rides per Weekday - calculated the total rides for members and casual and separated it by day of the week; used a Stacked Bar chart
+
 b.	Average Ride Length - calculated the average ride length for members and casual and separated it by day of the week; used  Horizontal Bar chart
+
 c.	Total Rides per Hour - calculated the total rides for members and casual separated by the time of the day (24hr); used a Bar  comparison chart 
+
 d.	Total Rides per Day - calculated the total rides for members and casual separated by the day of the month; used a Horizontal  Bar chart 
+
 e.	Total Rides per Bike Type - calculated the total rides for members and casual separated by Bike type; used  Stacked Bar chart 
+
 f. Make a dashboard by useing all charts for insights.
 
 Popular Bike: Classic
+
 Busiest Time :Afternoon
+
 Busiest Weekday: Thursday
+
 Busiest Month :April
+
 Most rides by User type:Member
+
 Average Ride Length : 32 mins
+
 ![image](https://github.com/Raziask/Raziask/assets/159090090/9a4ba449-3dfc-423e-8d59-1d401d4a8fe3)
 _______________________________________________________
 Act
