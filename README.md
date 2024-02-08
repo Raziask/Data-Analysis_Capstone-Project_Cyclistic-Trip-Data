@@ -1,5 +1,5 @@
-Google Data Analytics Capstone Project
-
+**Google Data Analytics Capstone Project
+**
 I worked on the Google Data Analytics Capstone Project, Case Study 1. I will be diving into the background, my full process of cleaning, analyzing and visualizing the data, along with my final suggestions and summary of the data. 
 Below is a table of contents in case you want to go to a specific section. 
 Table of Contents:
@@ -19,7 +19,7 @@ Table of Contents:
    _______________________________________________________________________________________________________________________________
    
 	
-Background
+**Background**
 
 About the company
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations
@@ -37,13 +37,14 @@ Below I will describe step-by-step the process I used to for this project. If yo
 To do this, I will follow the six steps of the data analysis process: Ask, Prepare, Process, Analyze and Share, and Act. SQL Queries Used in perform the above steps:
 _____________________________________________________________________________________________________________________________________
 
-Ask:
+**Ask:**
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 ____________________________________________________________________________________________________________________________________
 
-Prepare:
+**Prepare:**
+
 Use Cyclistic’s historical trip data to analyze and identify trends. Download the previous 12
 months of Cyclistic trip data  2023 here. (Note: The datasets have a different name because Cyclistic
 is a fictional company. For the purposes of this case study, the datasets are appropriate and
@@ -57,7 +58,7 @@ I first analyzed the data separately (each month) in Excel, then used Big Querry
 Microsoft Excel
 I initially wanted to gather and analyze my data in Excel because it was the tool I was most familiar with and I could get a general understanding of the data quicker. I did not combine all of the spreadsheets into one because that would've taken more processing power than my computer had. So I   cleaned the data each month and I add the new columns and tried  to generate the pivot tables and graphs.
 
- BigQuery sandbox:
+ **BigQuery sandbox:**
  
 1.	I began downloading the data from divvy-tripdata, and turning the .csv files into excel spreadsheets. I downloaded the most recent year of data 2023 Added two columns to all of the months:
 a.	ride_length calculated the total ride length for each trip using the start_at column which was: ending time minus starting time. 
@@ -69,7 +70,7 @@ b.	Average ride length between members and casual
 
 1.	(12 months data)  and also I removed some of  the data in some months  because the limit of the file is so high for that I need to have cloud to save and store it.
 _____________________________________________________________________________________________________________________________________
-Analyze:
+**Analyze**
 
 Data Source: divvy_tripdata
 1.	Data Merging:[Data Merging{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataMerging.Sql}]
@@ -132,7 +133,7 @@ April to October was the busiest season for both type of riders. They ride most 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/60b9436b-2d88-4b56-b2ca-9a4efe2ac62e)
 
 _________________________________________________________
-Share
+**Share**
 
 a.	Total Rides per Weekday - calculated the total rides for members and casual and separated it by day of the week; used a Stacked Bar chart
 
@@ -160,7 +161,7 @@ Average Ride Length : 32 mins
 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/9a4ba449-3dfc-423e-8d59-1d401d4a8fe3)
 _______________________________________________________
-Act
+**Act**
 •	The most popular bike among with riders was the classic.
 •	Busiest time was afternoon and the peak time was at 5PM for both casual riders and members. 
 •	Busiest weekday was Thurdsay, member riders used the service the most on the weekends. 
@@ -168,14 +169,14 @@ Act
 •	Most rides by User Type was members but casual riders weren't far behind. 
 •	The average ride length was 32 minutes but casual riders on average rode 40  minutes longer than members
 _________________________________________________________
-BUSINESS SUGGESTIONS
+**BUSINESS SUGGESTIONS**
 This was the hardest part for me for the whole project. I have never provided suggestions for a business nor worked in marketing. Any feedback here would be appreciated. 
 These are my suggestions for the marketing team to convert casual riders to annual members:
 1.	Personalize discounts and show perks in the membership program based on their preferences and riding habits.
 2.	Emphasize the benefits of memberships, including discounts during busy times of the year like during Summer, or on the weekends. 
 3.	Have existing members to share their stories about how using Cyclistic's system has changed their life, to create a sense of community, offer a discount if they do so this will help encourage new riders to join the program.
 ______________________________________________________________
-WHAT I LEARNED
+**WHAT I LEARNED**
 Below is what I learned/practiced from over 50 hours spent on this project: 
 
 •	Pivot Tables in Microsoft Excel
