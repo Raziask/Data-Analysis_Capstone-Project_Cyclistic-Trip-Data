@@ -125,7 +125,7 @@ b.	Average Ride Length - calculated the average ride length for members and casu
 
 c.	Total Rides per Hour - calculated the total rides for members and casual separated by the time of the day (24hr); used a Bar  comparison chart 
 
-d.	Total Rides per Day - calculated the total rides for members and casual separated by the day of the month; used a Horizontal  Bar chart 
+d.	Total Rides per Day - calculated the total rides for members and casual separated by the day of the month; used a pie chart 
 
 e.	Total Rides per Bike Type - calculated the total rides for members and casual separated by Bike type; used  Stacked Bar chart 
 
@@ -162,9 +162,13 @@ These are my suggestions for the marketing team to convert casual riders to annu
 ______________________________________________________________
 WHAT I LEARNED
 Below is what I learned/practiced from over 50 hours spent on this project: 
+
 •	Pivot Tables in Microsoft Excel
+
 •	Practice using SQL for data analysis and cleaning specifically using the  GroupBy Querries for data analysis 
+
 •	Graphs in Tableau, edited visual elements along with creating different charts and filters. 
+
 •	Design elements of an effective dashboard
  
 
