@@ -2,22 +2,24 @@ Google Data Analytics Capstone Project
 
 
 
-I worked on the Google Data Analytics Capstone Project, Case Study 1. I will be diving into the background, my full process of cleaning, analyzing and visualizing the data, along with my final suggestions and summary of the data. 
-Below is a table of contents in case you want to go to a specific section. 
-Table of Contents:
+I worked on the Google Data Analytics Capstone Project, Case Study 1. I will be diving into the background, my full process of cleaning, analyzing and visualizing the data, along with my final suggestions and summary of the data. Below is a table of contents in case you want to go to a specific section. 
+
+
+**Table of Contents:**
+
 
 1 . Background 
 
-2.	Process 
-   Microsoft Excel ,SQL,Tableau
+2.  Process 
+            Microsoft Excel ,SQL,Tableau
   	
-3.	Analysis Process
+3.  Analysis Process
 	
-4.	Summary of Data
+4. Summary of Data
 	
-5.	Business Suggestions
+5. Business Suggestions
 	 
-6.	What I Learned
+6. What I Learned
 
    ______________________________________________________________________________________________________________________________________________________________________________________
    
@@ -72,7 +74,8 @@ a.	total number of rides per hour, per day of the month, per day of the week, an
 b.	Average ride length between members and casual
 
 1.	(12 months data)  and also I removed some of  the data in some months  because the limit of the file is so high for that I need to have cloud to save and store it.
-_____________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
+
 **Analyze**
 
         Data Source: divvy_tripdata
@@ -170,8 +173,10 @@ _________________________________________________________
 **Average Ride Length** : 25 mins
 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/9a4ba449-3dfc-423e-8d59-1d401d4a8fe3)
-_______________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
+
 **Act**
+
 •	The most popular bike among with riders was the classic.
 
 •	Busiest time was afternoon and the peak time was at 5PM for both casual riders and members. 
