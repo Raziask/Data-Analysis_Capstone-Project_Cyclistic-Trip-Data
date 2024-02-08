@@ -15,9 +15,11 @@ Table of Contents:
 5.	Business Suggestions
 	 
 6.	What I Learned
+
+   _______________________________________________________________________________________________________________________________
    
 	
-________________________________Background______________________________________________________________________________________
+Background
 
 About the company
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations
@@ -30,17 +32,18 @@ Overall Goal: Design marketing strategies aimed at converting casual riders into
 Business Question: "How do annual members and casual riders use Cyclistic bikes differently?"
 Below I will describe step-by-step the process I used to for this project. If you want to skip ahead to the business suggestions move onto the section "Insights".
 
- _____________________________________________________________
+ _____________________________________________________________________________________________________________________________________
 
 To do this, I will follow the six steps of the data analysis process: Ask, Prepare, Process, Analyze and Share, and Act. SQL Queries Used in perform the above steps:
-__________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________
+
 Ask:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
-___________________________________________________________________________________________
-Prepare
+____________________________________________________________________________________________________________________________________
 
+Prepare:
 Use Cyclistic’s historical trip data to analyze and identify trends. Download the previous 12
 months of Cyclistic trip data  2023 here. (Note: The datasets have a different name because Cyclistic
 is a fictional company. For the purposes of this case study, the datasets are appropriate and
@@ -65,8 +68,8 @@ a.	total number of rides per hour, per day of the month, per day of the week, an
 b.	Average ride length between members and casual
 
 1.	(12 months data)  and also I removed some of  the data in some months  because the limit of the file is so high for that I need to have cloud to save and store it.
-__________________________________________________________
-Analyze
+_____________________________________________________________________________________________________________________________________
+Analyze:
 
 Data Source: divvy_tripdata
 1.	Data Merging:[Data Merging{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataMerging.Sql}]
