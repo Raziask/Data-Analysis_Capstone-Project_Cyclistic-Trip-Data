@@ -5,6 +5,7 @@ Google Data Analytics Capstone Project
 I worked on the Google Data Analytics Capstone Project, Case Study 1. I will be diving into the background, my full process of cleaning, analyzing and visualizing the data, along with my final suggestions and summary of the data. 
 Below is a table of contents in case you want to go to a specific section. 
 Table of Contents:
+
 1 . Background 
 
 2.	Process 
@@ -18,7 +19,7 @@ Table of Contents:
 	 
 6.	What I Learned
 
-   _______________________________________________________________________________________________________________________________
+   ______________________________________________________________________________________________________________________________________________________________________________________
    
 	
 **Background**
@@ -34,7 +35,7 @@ Overall Goal: Design marketing strategies aimed at converting casual riders into
 Business Question: "How do annual members and casual riders use Cyclistic bikes differently?"
 Below I will describe step-by-step the process I used to for this project. If you want to skip ahead to the business suggestions move onto the section "Insights".
 
- _____________________________________________________________________________________________________________________________________
+ _______________________________________________________________________________________________________________________________________________________________________________________
 
 To do this, I will follow the six steps of the data analysis process: Ask, Prepare, Process, Analyze and Share, and Act. SQL Queries Used in perform the above steps:
 ________________________________________________________________________________________________________________________________________________________________________________________
@@ -74,7 +75,7 @@ b.	Average ride length between members and casual
 _____________________________________________________________________________________________________________________________________
 **Analyze**
 
-       **Data Source:**: divvy_tripdata
+        Data Source: divvy_tripdata
 
 1.	Data Merging:   [Data Merging{https://github.com/Raziask/Data-Analysis_Capstone-Project_Cyclistic-Trip-Data/blob/main/DataMerging.Sql}]
    
