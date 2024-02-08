@@ -53,12 +53,7 @@ b.	day_of_week calculated the day of the week for each trip using the start_at c
 3.	Came up with metrics to look at such as : 
 a.	total number of rides per hour, per day of the month, per day of the week, and for different bike types 
 b.	Average ride length between members and casual
-4.	For every month in Excel created pivot tables and charts to go with the analysis on (this took the longest):
-a.	Total Rides per Weekday - calculated the total rides for members and casual and separated it by day of the week; used a Bar chart
-b.	Average Ride Length - calculated the average ride length for members and casual and separated it by day of the week; used a Bar chart
-c.	Total Rides per Hour - calculated the total rides for members and casual separated by the time of the day (24hr); used a bar comparison chart 
-d.	Total Rides per Day - calculated the total rides for members and casual separated by the day of the month; used a Bar chart 
-e.	Total Rides per Bike Type - calculated the total rides for members and casual separated by Bike type; used Bar chart 
+
 1.	(12 months data)  and also I removed some of  the data in some months  because the limit of the file is so high for that I need to have cloud to save and store it.
 __________________________________________________________
 Analyze
@@ -73,8 +68,14 @@ The most popular Bike for both wss Classic bikes and  for casula bikes was alone
 Both Members and casual rides afternoon (12pm-6pm) and the 5pm was the most and night 4am being the least busy.
 Saturday was the most popular weekday for the both.Members used the bikes equally through out the bike with a slight increase on wednesday,while the casual rides equally through out the weekdays but the most on weekends.Saturdays in particular. 
 
-June to August was the busiest season for both type of riders. 
+April to October was the busiest season for both type of riders. They ride most in April.While the least in (December-February).Specially in February.
 _________________________________________________________
 Share
-
-
+a.	Total Rides per Weekday - calculated the total rides for members and casual and separated it by day of the week; used a Stacked Bar chart
+b.	Average Ride Length - calculated the average ride length for members and casual and separated it by day of the week; used  Horizontal Bar chart
+c.	Total Rides per Hour - calculated the total rides for members and casual separated by the time of the day (24hr); used a Bar  comparison chart 
+d.	Total Rides per Day - calculated the total rides for members and casual separated by the day of the month; used a Horizontal  Bar chart 
+e.	Total Rides per Bike Type - calculated the total rides for members and casual separated by Bike type; used  Stacked Bar chart 
+f.Make a dashboard by useing all charts for insights.
+_______________________________________________________
+Act
