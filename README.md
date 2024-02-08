@@ -94,7 +94,12 @@ The most popular Bike for both wss Classic bikes and  for casula bikes was alone
 
 
 Both Members and casual rides afternoon (12pm-6pm) and the 5pm was the most and night 4am being the least busy.
-Saturday was the most popular weekday for the both.Members used the bikes equally through out the bike with a slight increase on wednesday,while the casual rides equally through out the weekdays but the most on weekends.Saturdays in particular. 
+
+
+Thursday was the most popular weekday for the both.Members used the bikes equally through out the bike with a slight increase on Tuesday,while the casual rides equally through out the weekdays but the most on weekends.Saturdays in particular. 
+
+![image](https://github.com/Raziask/Raziask/assets/159090090/921d3d35-3b04-486b-81ba-13da25f85099)
+![image](https://github.com/Raziask/Raziask/assets/159090090/ab0502ce-9c16-44c9-96f4-4c1f4ffd5a77)
 
 
 
