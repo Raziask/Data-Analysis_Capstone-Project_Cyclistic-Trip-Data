@@ -76,7 +76,7 @@ b.	Average Ride Length - calculated the average ride length for members and casu
 c.	Total Rides per Hour - calculated the total rides for members and casual separated by the time of the day (24hr); used a Bar  comparison chart 
 d.	Total Rides per Day - calculated the total rides for members and casual separated by the day of the month; used a Horizontal  Bar chart 
 e.	Total Rides per Bike Type - calculated the total rides for members and casual separated by Bike type; used  Stacked Bar chart 
-f.Make a dashboard by useing all charts for insights.
+f. Make a dashboard by useing all charts for insights.
 
 Popular Bike: Classic
 Busiest Time :Afternoon
