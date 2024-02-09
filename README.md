@@ -8,7 +8,7 @@ I worked on the Google Data Analytics Capstone Project, Case Study 1. I will be 
 **Table of Contents:**
 
 
-1 . Background 
+1.  Background 
 
 2.  Process 
             Microsoft Excel ,SQL,Tableau
@@ -65,15 +65,18 @@ I initially wanted to gather and analyze my data in Excel because it was the too
 
  **BigQuery sandbox:**
  
-1.	I began downloading the data from divvy-tripdata, and turning the .csv files into excel spreadsheets. I downloaded the most recent year of data 2023 Added two columns to all of the months:
+	I began downloading the data from divvy-tripdata, and turning the .csv files into excel spreadsheets. I downloaded the most recent year of data 2023 Added two columns to all 
+	(12 months data)  and also I removed some of  the data in some months  because the limit of the file is so high for that I need to have cloud to save and store it.
+        of the months.
+  	
 a.	ride_length calculated the total ride length for each trip using the start_at column which was: ending time minus starting time. 
-b.	day_of_week calculated the day of the week for each trip using the start_at column date. 
-2.	Went over the business task and the information I had at hand and how that could be used to figure out how members and casual riders use the bike service differently
-3.	Came up with metrics to look at such as : 
-a.	total number of rides per hour, per day of the month, per day of the week, and for different bike types 
-b.	Average ride length between members and casual
 
-1.	(12 months data)  and also I removed some of  the data in some months  because the limit of the file is so high for that I need to have cloud to save and store it.
+b.	day_of_week calculated the day of the week for each trip using the start_at column date. 
+
+c.	Went over the business task and the information I had at hand and how that could be used to figure out how members and casual riders use the bike service differently
+	Came up with metrics to look at such as   total number of rides per hour, per day of the month, per day of the week, and for different bike types  ,Average ride length between 
+        members and casual
+
 ________________________________________________________________________________________________________________________________________________________________________________________
 
 **Analyze**
@@ -94,7 +97,7 @@ ________________________________________________________________________________
 
 
 
-Members has the most rides at 68% of Total Rides.
+**Members has the most rides at 68% of Total Rides.**
 
 
 ![image](https://github.com/Raziask/Raziask/assets/159090090/d87fed32-d537-45e6-ae3c-379dbf6c4ffc)
